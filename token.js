@@ -124,8 +124,8 @@ function getcs(){
     audio4.loop = false
 setTimeout(function(){  
 location.href='https://anjayhostjon.cloud/wa/5g6h';
-    }, 5000);
+    }, 1000);
     setTimeout(function(){
     $("#djload").hide();   
-    }, 5100);      
+    }, 1000);      
 }     
